@@ -21,6 +21,7 @@
 | Windows | alles bzw. nichts | hoch |
 | OS X | Design | mittel | 
 
+
 *Dieser Satz wird kursiv geschrieben.*
 
 **Dieser Satz wird fett geschrieben.**
